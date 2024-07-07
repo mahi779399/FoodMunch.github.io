@@ -1,26 +1,38 @@
-# Food Munch Website
+# Snake Game Project
 
-## Overview
-The Food Munch Website is a responsive and visually appealing frontend project developed for a restaurant/food delivery service. It provides an intuitive interface for users to explore menus, learn about services, and engage with the brand.
+## Description
+
+This project is a simple implementation of the classic Snake game using Java Swing for the GUI and various game functionalities. It's designed for practice to enhance my Java programming skills and to add to my resume.
 
 ## Features
-- **Responsive Design:** Ensures a seamless experience across various devices and screen sizes.
-- **Sections Implemented:**
-  - **Banner Section:** Features an attractive background with key branding messages.
-  - **What Can You Do (WCU) Section:** Highlights services and benefits with engaging cards.
-  - **Explore Menu Section:** Displays food items with descriptions and links to detailed pages.
-  - **Healthy Food and Delivery Section:** Provides information about healthy options and delivery/payment methods.
-  - **Customer Appreciation Section:** Expresses gratitude to customers with a special message and imagery.
-  - **Follow Us Section:** Encourages social media engagement with easy-to-access icons.
 
-## Technologies Used
-- **HTML5:** Structured the content and layout of the website.
-- **CSS3:** Styled the website for a modern and appealing look.
-- **Bootstrap:** Used for responsive design components and utilities.
-- **Google Fonts:** Integrated for typography choices enhancing readability and style.
+- **Snake Movement:** Control the snake using arrow keys.
+- **Food Generation:** Random generation of food for the snake to eat.
+- **Score Tracking:** Keep track of the player's score.
+- **Collision Detection:** Handle collisions with walls and the snake's own body.
 
-## Project Structure
-- **index.html:** Main entry point of the website.
-- **Food_Munch.css:** Custom CSS file for styling.
-- **img/:** Directory containing images used across the website.
-- **fonts/:** Directory for storing custom fonts imported from Google Fonts.
+## Usage
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/your-username/snake-game.git
+
+2. **Import the project into your preferred Java IDE.**
+
+3. **Compile and run the `Main.java` file.**
+
+4. **Use arrow keys to move the snake, eat food to grow, and avoid collisions to survive.**
+
+## Screenshots
+
+<!-- Add screenshots here if available -->
+
+## Contributing
+
+This project is a personal practice exercise. Contributions are not expected.
+
+## Contact
+
+- **Email:** mahendrakumarparvatham@gmail.com
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/parvatham-mahendra-kumar)
